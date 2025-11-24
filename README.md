@@ -45,6 +45,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=[DuckWeb-ir]&show_icons=true&theme=radical&locale=fa)
 <br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[DuckWeb-ir]&layout=compact&theme=radical&locale=fa)
+
 ---
 
 ## 📫 شبکه‌های اجتماعی (بیا بیشتر صحبت کنیم!)
