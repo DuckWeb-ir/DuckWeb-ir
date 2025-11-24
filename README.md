@@ -38,16 +38,6 @@
 
 ---
 
-## 📈 آمار GitHub (تعهد به توسعه)
-
-فعالیت مستمر من نشان‌دهنده‌ی تعهد به یادگیری و پیشرفت در توسعه‌ی نرم‌افزار است.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=[DuckWeb-ir]&show_icons=true&theme=radical&locale=fa)
-<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[DuckWeb-ir]&layout=compact&theme=radical&locale=fa)
-
----
-
 ## 📫 شبکه‌های اجتماعی (بیا بیشتر صحبت کنیم!)
 
 من همیشه آماده‌ی یادگیری و همکاری در پروژه‌های جذاب هستم! خوشحال می‌شوم که با من در ارتباط باشید:
